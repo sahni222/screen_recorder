@@ -1,0 +1,28 @@
+{
+  "name": "screen-recorder",
+  "version": "1.0.0",
+  "description": "desktop screen recorder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahni222/salesine.git"
+  },
+  "keywords": [
+    "record",
+    "screen",
+    "with",
+    "audio"
+  ],
+  "author": "sahni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahni222/salesine/issues"
+  },
+  "homepage": "https://github.com/sahni222/salesine#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

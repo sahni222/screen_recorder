@@ -1,0 +1,1 @@
+OPEN CMD AND TYPE npm run
